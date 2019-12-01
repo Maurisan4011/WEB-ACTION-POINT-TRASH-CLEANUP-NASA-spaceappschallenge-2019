@@ -46,7 +46,7 @@ Tomás Di Fiore: Gestión de tecnología / Análisis de datos
 LINKS DE REFERENCIA 
 <img src = "" />
 
-<a href="http://t/> Vista previa en vivo </a>
+<a href="https://maurisan4011.github.io/"/> Vista previa en vivo </a>
 
 =========
 
